@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Новости AMRteam on AMRteam</title>
+    <link>https://amrteam.ru/blog/</link>
+    <description>Recent content in Новости AMRteam on AMRteam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-ru</language>
+    <lastBuildDate>Mon, 23 Dec 2019 20:17:01 +0600</lastBuildDate>
+    
+	<atom:link href="https://amrteam.ru/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Запуск проекта AMRteam</title>
+      <link>https://amrteam.ru/blog/start-amrteam/</link>
+      <pubDate>Mon, 09 Jan 2023 00:45:06 +0600</pubDate>
+      
+      <guid>https://amrteam.ru/blog/start-amrteam/</guid>
+      <description>9 января 2023 состоялся запуск проекта AMRteam, посвящённого&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>
