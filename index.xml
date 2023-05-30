@@ -6,10 +6,28 @@
     <description>Recent content on AMRteam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
-    <lastBuildDate>Sat, 15 Apr 2023 00:45:06 +0600</lastBuildDate>
+    <lastBuildDate>Mon, 29 May 2023 00:45:06 +0600</lastBuildDate>
     
 	<atom:link href="https://amrteam.ru/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Мастер-класс в Тольятти</title>
+      <link>https://amrteam.ru/blog/tolyati2023/</link>
+      <pubDate>Mon, 29 May 2023 00:45:06 +0600</pubDate>
+      
+      <guid>https://amrteam.ru/blog/tolyati2023/</guid>
+      <description>27 мая 2023 прошло очередное мероприятие в рамках консорциума AMRteam&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Мастер-класс в Томске</title>
+      <link>https://amrteam.ru/blog/tomsk2023/</link>
+      <pubDate>Mon, 22 May 2023 00:45:06 +0600</pubDate>
+      
+      <guid>https://amrteam.ru/blog/tomsk2023/</guid>
+      <description>17 мая 2023 прошло очередное мероприятие в рамках консорциума AMRteam&amp;hellip;</description>
+    </item>
     
     <item>
       <title>Мастер-класс в Кирове</title>
