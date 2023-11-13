@@ -6,10 +6,19 @@
     <description>Recent content on AMRteam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
-    <lastBuildDate>Thu, 31 Aug 2023 00:45:06 +0600</lastBuildDate>
+    <lastBuildDate>Sat, 11 Nov 2023 00:45:06 +0600</lastBuildDate>
     
 	<atom:link href="https://amrteam.ru/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Мастер-класс в Ставрополе</title>
+      <link>https://amrteam.ru/blog/stavropol2023/</link>
+      <pubDate>Sat, 11 Nov 2023 00:45:06 +0600</pubDate>
+      
+      <guid>https://amrteam.ru/blog/stavropol2023/</guid>
+      <description>11 ноября 2023 прошло очередное мероприятие в рамках консорциума AMRteam&amp;hellip;</description>
+    </item>
     
     <item>
       <title>Мастер-класс в Улан-Удэ</title>
